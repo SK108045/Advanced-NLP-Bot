@@ -1,0 +1,6 @@
+streamlit
+ollama
+python-dotenv
+requests
+numpy
+PyPDF2
