@@ -26,7 +26,7 @@ An AI bot powered by a Retrieval Augmented Generation (RAG) pipeline that combin
 ### 1. Environment Setup
 
 1. Install Python 3.8+ and Git
-2. Install Ollama from [here]([https://ollama.ai](https://ollama.com/download)) and pull `llama3.2:1b` and `nomic-embed-text` models
+2. Install Ollama from [here](https://ollama.com/download) and pull `llama3.2:1b` and `nomic-embed-text` models
 3. Clone this repository:
 ```bash
 git clone https://github.com/SK108045/Advanced-NLP-Bot.git
