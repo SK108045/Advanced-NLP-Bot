@@ -33,3 +33,5 @@ git clone https://github.com/SK108045/Advanced-NLP-Bot.git
 ```
 4. Create a virtual environment and install the requirements . Also add your Deepgram API to the `.env` file
    
+---
+You can report bugs or suggest features
