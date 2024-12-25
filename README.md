@@ -16,7 +16,7 @@ An AI bot powered by a Retrieval Augmented Generation (RAG) pipeline that combin
 ## Technical Architecture
 
 - **Embedding Engine**: Uses **`nomic-embed-text`** for document and query vectorization
-- **LLM Backend**: The project uses Ollama with **`llama:3.2:1b`** model
+- **LLM Backend**: The project uses Ollama with **`llama3.2:1b`** model
 - **Document Processing**: PyPDF2 for PDF parsing with enhanced text preprocessing
 - **Frontend**: Streamlit for interactive UI components
 - **Audio System**: Deepgram API for high-quality voice synthesis
